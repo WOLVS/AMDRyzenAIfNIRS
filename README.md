@@ -19,3 +19,9 @@ python newpredictDAE.py
 cd ResNet-50
 python newpredictResNet.py 
 ```
+
+Result for FingerTapping dataset:
+![result-for-reconstruction](https://github.com/user-attachments/assets/0575d4c9-4d45-4136-82b1-61f0befc0cfe)
+
+Link for FingerTapping dataset:
+https://github.com/rob-luke/BIDS-NIRS-Tapping
